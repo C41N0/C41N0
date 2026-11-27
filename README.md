@@ -1,6 +1,6 @@
 <!-- 1. BANNER DE PERFIL -->
 <p align="center">
-  <img src="banner.png" alt="Banner C41N0 Analista Programador" width="100%" />
+  <img src="fondo.jpg" alt="Banner C41N0 Analista Programador" width="100%" />
 </p>
 
 <h1 align="center">¡Hola! Soy C41N0 👋</h1>
@@ -8,15 +8,11 @@
 
 <br>
 
-<!-- 2. SOBRE MÍ Y GIF DE PRESENTACIÓN -->
-<img align="right" alt="C41N0 Coding" width="320" src="animacion.gif">
-
+<!-- 2. SOBRE MÍ -->
 - 💻 **Rol principal:** Analista Programador y Desarrollador de Páginas Web enfocadas en rendimiento, funcionalidad y buena experiencia de usuario.
 - 🤖 **Flujo de trabajo con IA:** Integro herramientas de Inteligencia Artificial en mi día a día para acelerar el desarrollo, optimizar código, automatizar tareas y resolver problemas de forma más ágil.
 - 💡 **Especialidad:** Análisis de requerimientos, bases de datos relacionales en PostgreSQL y desarrollo web Full-Stack con PHP, Django, JavaScript, HTML y CSS.
 - ⚡ **Dato curioso:** Combino lógica de programación, café e IA para transformar ideas en aplicaciones web listas para producción.
-
-<br clear="right"/>
 
 ---
 
