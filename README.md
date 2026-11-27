@@ -1,64 +1,86 @@
-<!-- 1. BANNER DE PERFIL -->
 <p align="center">
-  <img src="fondo.jpg" alt="Banner C41N0 Analista Programador" width="100%" />
+  <img src="fondo.jpg" alt="C41N0 - Analista Programador y Desarrollador Web" width="100%" />
 </p>
 
-<h1 align="center">¡Hola! Soy C41N0 👋</h1>
-<h3 align="center">Analista Programador & Desarrollador Web | Potenciando el desarrollo con IA</h3>
+<h1 align="center">C41N0</h1>
+<p align="center">
+  <strong>Analista Programador &nbsp;|&nbsp; Desarrollador Web Full-Stack</strong>
+</p>
 
-<br>
+<hr />
 
-<!-- 2. SOBRE MÍ -->
-- 💻 **Rol principal:** Analista Programador y Desarrollador de Páginas Web enfocadas en rendimiento, funcionalidad y buena experiencia de usuario.
-- 🤖 **Flujo de trabajo con IA:** Integro herramientas de Inteligencia Artificial en mi día a día para acelerar el desarrollo, optimizar código, automatizar tareas y resolver problemas de forma más ágil.
-- 💡 **Especialidad:** Análisis de requerimientos, bases de datos relacionales en PostgreSQL y desarrollo web Full-Stack con PHP, Django, JavaScript, HTML y CSS.
-- ⚡ **Dato curioso:** Combino lógica de programación, café e IA para transformar ideas en aplicaciones web listas para producción.
+<h3>Perfil Profesional</h3>
 
----
-
-### 🛠️ Stack Tecnológico y Herramientas
-
-**Desarrollo Web (Frontend y Backend)**
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  Analista Programador especializado en el diseño, desarrollo y despliegue de aplicaciones web orientadas al rendimiento, la escalabilidad y la integridad de datos. Mi enfoque abarca desde el levantamiento y análisis de requerimientos hasta la arquitectura de bases de datos relacionales y la implementación en producción.
 </p>
 
-**Bases de Datos y Administración**
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/pgAdmin-326690?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin" />
+  Integro flujos de trabajo asistidos por Inteligencia Artificial en el ciclo de desarrollo de software para optimizar la refactorización de código, acelerar la depuración, automatizar tareas repetitivas y elevar los estándares de entrega técnica.
 </p>
 
-**DevOps, Control de Versiones e IA**
+<br />
+
+<h3>Competencias y Arquitectura Técnica</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Área</th>
+      <th align="left">Tecnologías y Herramientas</th>
+      <th align="left">Enfoque Aplicado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Desarrollo Backend</strong></td>
+      <td>PHP, Python, Django</td>
+      <td>Arquitectura MVC, desarrollo de APIs REST, lógica de negocio y seguridad.</td>
+    </tr>
+    <tr>
+      <td><strong>Desarrollo Frontend</strong></td>
+      <td>JavaScript, HTML5, CSS3</td>
+      <td>Interfaces responsivas, manipulación del DOM y experiencia de usuario estructurada.</td>
+    </tr>
+    <tr>
+      <td><strong>Bases de Datos</strong></td>
+      <td>PostgreSQL, pgAdmin</td>
+      <td>Modelado relacional, normalización, consultas SQL optimizadas y administración.</td>
+    </tr>
+    <tr>
+      <td><strong>Infraestructura y Flujo</strong></td>
+      <td>Docker, Git, Flujos con IA</td>
+      <td>Contenerización de entornos, control de versiones y asistencia inteligente en código.</td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+
+<h3>Stack Tecnológico</h3>
+
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AI_Assisted_Dev-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Assisted Development" />
+  <img src="https://img.shields.io/badge/PHP-181717?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-181717?style=for-the-badge&logo=django&logoColor=44B78B" alt="Django" />
+  <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
 </p>
 
----
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-181717?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/pgAdmin-181717?style=for-the-badge&logo=postgresql&logoColor=336791" alt="pgAdmin" />
+  <img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/AI_Workflows-181717?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="AI Workflows" />
+</p>
 
-### 📊 Estadísticas de GitHub
+<br />
+
+<h3>Métricas de Actividad</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C41N0&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Estadísticas de C41N0" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C41N0&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Lenguajes más usados" />
-</p>
-
----
-
-### 📫 Conecta conmigo
-
-<p align="center">
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tu-correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=C41N0&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="Métricas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C41N0&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Distribución de Lenguajes" />
 </p>
